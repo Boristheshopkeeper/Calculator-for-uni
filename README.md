@@ -18,6 +18,9 @@ Expected Result 42.0
 # Calculator lab project
 ## How to run it
 
+#The check.sh command 
+Stops after a failing pytest command
+Runs a quality gate on the calculator
 Run: python3 calculator.py 
 
 Operations: + - * / (two numbers)
